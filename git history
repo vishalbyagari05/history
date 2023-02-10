@@ -1,4 +1,6 @@
- 1  yum install git -y
+   git setup
+   
+   1  yum install git -y
     2  mkdir swiggy
     3  cd swiggy/
     4  git init.
